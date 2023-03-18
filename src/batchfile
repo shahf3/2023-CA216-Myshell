@@ -1,0 +1,7 @@
+cd testing
+clr
+dir
+environ
+echo hello faizan
+pause
+quit
